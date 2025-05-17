@@ -30,6 +30,6 @@
 
   Learn how LLMs use tools and function calling to extend their capabilities.
 
-* **2.7. Agentic Orchestration** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic2/2.7_llm_tools_and_agents.ipynb)
+* **2.7. Agentic Orchestration** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic2/2.7_agentic_orchestration.ipynb)
 
   Advance past manual LLM orchestration and start designing AI-driven workflows.
