@@ -1,6 +1,6 @@
 # LLM Engineering Essentials course by Nebius Academy
 
-**🗣️ Starting May 7, join weekly expert-led Q&A sessions to ask questions and get feedback from course lecturers and mentors.**
+**🗣️ On May 21, join our next expert-led Q&A session — part of a weekly series. Ask questions and get feedback directly from course lecturers and mentors!**
 
 ## 📌 Quick start
 
